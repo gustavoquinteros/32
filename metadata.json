@@ -1,0 +1,6 @@
+{
+  "name": "Infinite Gray Canvas",
+  "description": "A simple gray page with infinite panning and zooming capabilities in all directions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

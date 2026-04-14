@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Helvetica Neue', Arial, sans-serif;
+}
+
+:root {
+  --bg-color: #1a1a1a;
+  --canvas-grey: #262626;
+  --accent-grey: #3d3d3d;
+  --text-main: #d1d1d1;
+  --text-dim: #808080;
+  --grid-line: rgba(255, 255, 255, 0.03);
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-main);
+}
